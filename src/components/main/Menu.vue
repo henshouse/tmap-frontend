@@ -1,5 +1,6 @@
 <template>
     <menu>
+        <FilterModal />
         <ul id="mode">
             <button id="border-button">
                 <i class="fa-solid fa-calendar-days fa-xl"></i>
@@ -93,9 +94,11 @@ menu {
 <script>
 import Schedule from './menu/Schedule.vue'
 import Filter from './menu/Filter.vue'
+import FilterModal from './menu/FilterModal.vue'
 
 export default {
     components: {
+        FilterModal,
         Schedule,
         Filter,
     },
