@@ -1,6 +1,6 @@
 <template>
     <menu>
-        <FilterModal />
+        <FilterModal @click="show = false" v-if="show"/>
         <ul id="mode">
             <button id="border-button">
                 <i class="fa-solid fa-calendar-days fa-xl"></i>
@@ -19,7 +19,9 @@
                 <Filter name="Richard Belda" />
                 <Filter name="Cm" />
             </ul>
-            <i class="fa-solid fa-sliders fa-xl"></i>
+            <button @click="show = true">
+                <i class="fa-solid fa-sliders fa-xl"></i>
+            </button>
         </ul>
         <Schedule />
     </menu>
@@ -64,6 +66,13 @@ menu {
             }
         }
 
+        button {
+            width: 2rem;
+            height: 2rem;
+            background-color: whitesmoke;
+            border-radius: 6px;
+        }
+
     }
 
     #mode {
@@ -105,7 +114,7 @@ export default {
 
     data() {
         return {
-
+            show: false,
         };
     },
 };

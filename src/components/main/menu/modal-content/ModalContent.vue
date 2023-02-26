@@ -1,6 +1,6 @@
 <template>
     <div id="modal-content">
-        
+
     </div>
 </template>
 
@@ -10,7 +10,7 @@
     height: 50%;
     display: flex;
     background-color: whitesmoke;
-    z-index: 2;
+    z-index: 3;
     border-radius: 8px;
 }
 </style>
