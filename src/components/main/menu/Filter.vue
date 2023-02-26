@@ -1,7 +1,9 @@
 <template>
     <div id="filter">
         <span>{{ name }}</span>
-        <i class="fa-solid fa-xmark"></i>
+        <button @click="removeFilter">
+            <i class="fa-solid fa-xmark"></i>
+        </button>
     </div>
 </template>
 
@@ -16,6 +18,11 @@
     background-color: whitesmoke;
     border-radius: 6px;
     box-shadow: rgba(0, 0, 0, 0.08) 0px 4px 12px;
+
+    button {
+        border-radius: 6px;
+        background-color: whitesmoke;
+    }
 
     i {
         color: #00416c;
@@ -34,5 +41,11 @@ export default {
 
         };
     },
+
+    methods: {
+        removeFilter() {
+            this.$emit("remove", this.name)
+        }
+    }
 };
 </script>

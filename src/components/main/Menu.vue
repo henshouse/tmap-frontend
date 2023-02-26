@@ -1,6 +1,6 @@
 <template>
     <menu>
-        <FilterModal @click="show = false" v-if="show"/>
+        <FilterModal v-if="show" @close="closeMdl" @setFilter="getFilters"/>
         <ul id="mode">
             <button id="border-button">
                 <i class="fa-solid fa-calendar-days fa-xl"></i>
@@ -15,9 +15,7 @@
                 <h2>Aktivní filtry:</h2>
             </li>
             <ul>
-                <Filter name="315" />
-                <Filter name="Richard Belda" />
-                <Filter name="Cm" />
+                <Filter v-for="filter in filters" :key="filter" :name="filter" @remove="removeFilter"/>
             </ul>
             <button @click="show = true">
                 <i class="fa-solid fa-sliders fa-xl"></i>
@@ -78,7 +76,7 @@ menu {
     #mode {
         display: flex;
         width: 100%;
-        height: 6%;
+        height: 2.6rem;
         justify-content: center;
         align-items: center;
         box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px;
@@ -115,7 +113,26 @@ export default {
     data() {
         return {
             show: false,
+            filters: []
         };
+    },
+
+    methods: {
+        closeMdl(data){
+            return this.show = data
+        },
+
+        getFilters(data) {
+            return this.filters = data
+        },
+
+        removeFilter(data) {
+            for (i = 0; i < this.filters.length; i++) {
+                if (this.filters[i] == data) {
+                    return this.filters.splice(i, 1)
+                }
+            }
+        }
     },
 };
 </script>
