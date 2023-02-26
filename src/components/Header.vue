@@ -32,20 +32,24 @@ header {
     i {
         color: whitesmoke;
     }
+
     ul {
         display: flex;
         gap: 3rem;
         align-items: center;
+
         h1 {
             font-size: 1.8rem;
             font-weight: 500;
             color: whitesmoke;
+            font-family: 'Titillium Web', sans-serif;
         }
     }
 }
 
-header, ul, i {
+header,
+ul,
+i {
     filter: drop-shadow(1px 1px 3px #000);
 
-}
-</style>
+}</style>
