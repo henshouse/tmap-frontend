@@ -1,6 +1,6 @@
 <template>
     <menu>
-        <FilterModal v-if="show" @close="closeMdl" @setFilter="getFilters"/>
+        <FilterModal v-show="show" @close="closeMdl" @setFilter="getFilters"/>
         <ul id="mode">
             <button id="border-button">
                 <i class="fa-solid fa-calendar-days fa-xl"></i>
