@@ -1,38 +1,18 @@
-<script>
-import Header from './components/Header.vue'
-import Main from './components/Main.vue'
+<script setup>
+import { RouterLink, RouterView } from "vue-router"
+import { useRouter } from "vue-router"
 
-export default {
-  components: {
-    Header,
-    Main,
-  },
-
-  data() {
-    return {
-
-    };
-  },
-};
+const router = useRouter()
+router.push("/login")
 </script>
 
 <template>
-  <div id="content">
-    <Header/>
-    <Main/>
-  </div>
+  <router-view></router-view>
 </template>
 
 <style lang="scss">
-#content {
-  display: flex;
-  width: 100%;
-  flex-direction: column;
-  align-items: center;
-}
-
 * {
-	font-family: 'Titillium Web', sans-serif;
+  font-family: "Titillium Web", sans-serif;
 }
 
 body {
