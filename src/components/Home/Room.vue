@@ -22,4 +22,8 @@ const styled = computed(() => {
   <div :style="styled"></div>
 </template>
 
-<style scoped></style>
+<style scoped>
+div {
+  background-color: #756d54;
+}
+</style>
