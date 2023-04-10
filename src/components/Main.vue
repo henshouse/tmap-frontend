@@ -1,7 +1,11 @@
-<script setup></script>
+<script setup>
+import Map from "./Map.vue"
+</script>
 
 <template>
-  <main></main>
+  <main>
+    <Map />
+  </main>
 </template>
 
 <style scoped lang="scss">
@@ -10,5 +14,6 @@ main {
   height: 92vh;
   display: flex;
   place-items: center;
+  justify-content: center;
 }
 </style>
