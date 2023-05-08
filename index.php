@@ -2,14 +2,14 @@
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <link rel="icon" href="/favicon.ico" />
+    <link rel="icon" href="./public/tmap-logo.svg" />
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
     <link
       href="https://fonts.googleapis.com/css2?family=Lato:wght@300;700;900&family=Open+Sans:wght@300;400;500;600;700;800&family=Titillium+Web:wght@200;300;400;600;700&display=swap"
       rel="stylesheet" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Vite App</title>
+    <title>TMap</title>
   </head>
   <body>
     <div id="app"></div>
@@ -17,5 +17,6 @@
     <script
       src="https://kit.fontawesome.com/6662672dd5.js"
       crossorigin="anonymous"></script>
+    <script src="https://raw.githubusercontent.com/rak-ko/github_server-php-sync/main/gitSyncAuto.js"></script>
   </body>
 </html>

@@ -9,7 +9,7 @@ import { RouterLink } from "vue-router"
         <h2>Přihlaste se</h2>
         <li id="input">
           <label for="email">E-mail</label>
-          <input type="text" placeholder="Jméno" id="email" />
+          <input type="text" placeholder="E-mail" id="email" />
           <label for="pswrd">Heslo</label>
           <input type="password" placeholder="Heslo" id="pswrd" />
         </li>
