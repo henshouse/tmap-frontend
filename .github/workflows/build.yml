@@ -23,10 +23,6 @@ jobs:
     - name: Build the Vue app
       run: npm run build
 
-    - name: Move build artifacts to /dist folder
-      run: mv dist/* /dist/
-      working-directory: ./dist
-
     - name: Commit changes
       run: |
         git config --global user.name "GitHub Actions"
