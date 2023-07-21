@@ -2,7 +2,7 @@ name: Build and Deploy Vue App
 on:
   push:
     branches:
-      - main
+      - main  # Změňte na hlavní větev vašeho repozitáře, pokud je jiná
 
 jobs:
   build:
@@ -15,7 +15,7 @@ jobs:
     - name: Set up Node.js
       uses: actions/setup-node@v2
       with:
-        node-version: '14'
+        node-version: '14'  # Změňte na požadovanou verzi Node.js
 
     - name: Install dependencies
       run: npm install
@@ -23,15 +23,8 @@ jobs:
     - name: Build the Vue app
       run: npm run build
 
-    - name: Commit changes
-      run: |
-        git config --global user.name "GitHub Actions"
-        git config --global user.email "actions@github.com"
-        git add -f .
-        git commit -m "Auto-generated build artifacts"
-      working-directory: ./dist
-
-    - name: Push changes
-      uses: ad-m/github-push-action@master
+    - name: Deploy to GitHub Pages
+      uses: peaceiris/actions-gh-pages@v3
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./dist
