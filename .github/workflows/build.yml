@@ -1,4 +1,4 @@
-name: Build Vue App
+name: Build and Deploy Vue App
 on:
   push:
     branches:
@@ -22,3 +22,20 @@ jobs:
 
     - name: Build the Vue app
       run: npm run build
+
+    - name: Move build artifacts to /dist folder
+      run: mv dist/* /dist/
+      working-directory: ./dist
+
+    - name: Commit changes
+      run: |
+        git config --global user.name "GitHub Actions"
+        git config --global user.email "actions@github.com"
+        git add .
+        git commit -m "Auto-generated build artifacts"
+      working-directory: ./dist
+
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
