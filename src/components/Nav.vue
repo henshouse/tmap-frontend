@@ -8,14 +8,17 @@
             :subtitle="item.raw.subtitle"></v-list-item>
         </template>
       </v-autocomplete>
+      <v-select label="Den" :items="['Po', 'Út', 'St', 'Čt', 'Pá']"></v-select>
       <v-select
         label="Hodina"
         :items="['1', '2', '3', '4', '5', '6', '7', '8', '9', '10']"></v-select>
     </v-form>
+    <Info />
   </aside>
 </template>
 
 <script setup>
+import Info from "./Info.vue"
 import { ref } from "vue"
 
 const items = ref([
@@ -32,6 +35,9 @@ aside {
   width: 12%;
   background-color: var(--secondary-color);
   border-right: 4px solid var(--secondary-dark);
+
+  display: flex;
+  flex-direction: column;
 
   .v-input__control {
     background-color: var(--white);

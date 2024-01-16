@@ -3,7 +3,6 @@
 <template>
   <header>
     <ul>
-      <!-- <img src="tmap-logo.svg" alt="" /> -->
       <i class="fa-solid fa-map-location-dot fa-2xl"></i>
       <h1>TMap</h1>
     </ul>
@@ -41,6 +40,11 @@ header {
       font-size: 1.8rem;
       font-weight: 600;
       color: var(--black);
+    }
+
+    h1,
+    .fa-map-location-dot {
+      margin-left: -30px;
     }
   }
 }

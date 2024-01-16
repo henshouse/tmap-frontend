@@ -85,11 +85,12 @@ section {
       width: 100%;
       height: 100%;
     }
-
-    path {
-      fill: rgb(214, 214, 214);
-      stroke-linecap: round;
-      stroke-linejoin: round;
+    #g21 {
+      path {
+        fill: rgb(214, 214, 214);
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
     }
 
     #path41 {

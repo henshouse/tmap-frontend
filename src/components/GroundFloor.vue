@@ -55,185 +55,10 @@
         id="g19"
         transform="matrix(0,-0.04233333,-0.04233333,0,292.99668,173.40359)">
         <g id="g21" clip-path="url(#clipPath25)">
-          <g id="g27">
-            <path
-              d="m 4091,6324 v 592 l -462,-592 z m 0,592 -462,-592 v 592 z"
-              id="path29" />
-          </g>
-          <g id="g31">
-            <path
-              d="m 3611,6324 v 465 l -180,-465 z m 0,465 -180,-465 v 465 z"
-              id="path33" />
-          </g>
-          <g id="g35">
-            <path
-              d="m 3553,2898 v 217 l -136,-217 z m 0,217 -136,-217 v 217 z"
-              id="path37" />
-          </g>
-          <g id="g39">
-            <path
-              d="m 3546,2166 v 461 l -330,-461 z m 0,461 -330,-461 v 461 z"
-              id="path41" />
-          </g>
-          <g id="g43">
-            <path
-              d="m 3403,2898 v 217 l -336,-217 z m 0,217 -336,-217 v 217 z"
-              id="path45" />
-          </g>
-          <g id="g47">
-            <path
-              d="m 3042,3010 v 105 l -1,-105 z m 0,105 -1,-105 v 105 z"
-              id="path49" />
-          </g>
-          <g id="g51">
-            <path
-              d="m 3041,3010 v 105 l -6,-105 z m 0,105 -6,-105 v 105 z"
-              id="path53" />
-          </g>
-          <g id="g55">
-            <path
-              d="m 3410,6324 v 465 l -418,-465 z m 0,465 -418,-465 v 465 z"
-              id="path57" />
-          </g>
-          <g id="g59">
-            <path
-              d="m 3035,2898 v 217 l -111,-217 z m 0,217 -111,-217 v 217 z"
-              id="path61" />
-          </g>
-          <g id="g63">
-            <path
-              d="m 2924,3010 v 105 l -7,-105 z m 0,105 -7,-105 v 105 z"
-              id="path65" />
-          </g>
-          <g id="g67">
-            <path
-              d="m 3210,2166 v 461 l -368,-461 z m 0,461 -368,-461 v 461 z"
-              id="path69" />
-          </g>
-          <g id="g71">
-            <path
-              d="m 2892,2898 v 217 l -125,-217 z m 0,217 -125,-217 v 217 z"
-              id="path73" />
-          </g>
-          <g id="g75">
-            <path
-              d="m 2735,2898 v 217 l -106,-217 z m 0,217 -106,-217 v 217 z"
-              id="path77" />
-          </g>
-          <g id="g79">
-            <path
-              d="m 2623,2898 v 217 l -149,-217 z m 0,217 -149,-217 v 217 z"
-              id="path81" />
-          </g>
-          <g id="g83">
-            <path
-              d="m 2809,2166 v 461 l -417,-461 z m 0,461 -417,-461 v 461 z"
-              id="path85" />
-          </g>
-          <g id="g87">
-            <path
-              d="m 2378,2166 v 461 l -181,-461 z m 0,461 -181,-461 v 461 z"
-              id="path89" />
-          </g>
-          <g id="g91">
-            <path
-              d="m 2316,2898 v 217 l -124,-217 z m 0,217 -124,-217 v 217 z"
-              id="path93" />
-          </g>
-          <g id="g95">
-            <path
-              d="m 2160,2898 v 217 l -262,-217 z m 0,217 -262,-217 v 217 z"
-              id="path97" />
-          </g>
-          <g id="g99">
-            <path
-              d="m 2192,2166 v 461 l -387,-461 z m 0,461 -387,-461 v 461 z"
-              id="path101" />
-          </g>
-          <g id="g103">
-            <path
-              d="m 2953,6324 v 591 L 1748,6324 Z m 0,591 -1205,-591 v 591 z"
-              id="path105" />
-          </g>
-          <g id="g107">
-            <path
-              d="m 1691,2885 v 75 l -267,-75 z m 0,75 -267,-75 v 75 z"
-              id="path109" />
-          </g>
-          <g id="g111">
-            <path
-              d="m 1710,6492 v 423 l -349,-423 z m 0,423 -349,-423 v 423 z"
-              id="path113" />
-          </g>
-          <g id="g115">
-            <path
-              d="m 1398,2885 v 75 l -169,-75 z m 0,75 -169,-75 v 75 z"
-              id="path117" />
-          </g>
-          <g id="g119">
-            <path
-              d="m 1691,2986 v 518 l -462,-518 z m 0,518 -462,-518 v 518 z"
-              id="path121" />
-          </g>
-          <g id="g123">
-            <path
-              d="m 1691,3536 v 130 l -462,-130 z m 0,130 -462,-130 v 130 z"
-              id="path125" />
-          </g>
-          <g id="g127">
-            <path
-              d="m 1691,3673 v 211 l -462,-211 z m 0,211 -462,-211 v 211 z"
-              id="path129" />
-          </g>
-          <g id="g131">
-            <path
-              d="m 1691,3892 v 506 l -462,-506 z m 0,506 -462,-506 v 506 z"
-              id="path133" />
-          </g>
-          <g id="g135">
-            <path
-              d="m 1691,4416 v 530 l -462,-530 z m 0,530 -462,-530 v 530 z"
-              id="path137" />
-          </g>
-          <g id="g139">
-            <path
-              d="m 1691,4980 v 754 l -462,-754 z m 0,754 -462,-754 v 754 z"
-              id="path141" />
-          </g>
-          <g id="g143">
-            <path
-              d="m 1691,5749 v 298 l -462,-298 z m 0,298 -462,-298 v 298 z"
-              id="path145" />
-          </g>
-          <g id="g147">
-            <path
-              d="m 1347,6492 v 423 l -343,-423 z m 0,423 -343,-423 v 423 z"
-              id="path149" />
-          </g>
-          <g id="g151">
-            <path
-              d="m 1778,2166 v 461 l -775,-461 z m 0,461 -775,-461 v 461 z"
-              id="path153" />
-          </g>
-          <g id="g155">
-            <path
-              d="m 985,6492 v 423 L 636,6492 Z m 0,423 -349,-423 v 423 z"
-              id="path157" />
-          </g>
-          <g id="g159">
-            <path
-              d="m 747,2166 v 461 L 392,2166 Z m 0,461 -355,-461 v 461 z"
-              id="path161" />
-          </g>
-          <g id="g163">
-            <path
-              d="m 392,2423 v 204 l -25,-204 z m 0,204 -25,-204 v 204 z"
-              id="path165" />
-          </g>
           <path
             d="m 3546,2627 v -461 h -330 v 461 h 330"
             style="
-              fill: none;
+              fill: #d8d8d8;
               stroke: #000000;
               stroke-width: 6;
               stroke-linecap: round;
@@ -246,7 +71,7 @@
           <path
             d="m 3546,2627 v -461 h -330 v 461 h 330"
             style="
-              fill: none;
+              fill: #d8d8d8;
               stroke: #000000;
               stroke-width: 6;
               stroke-linecap: round;
@@ -259,7 +84,7 @@
           <path
             d="m 3210,2627 v -461 h -368 v 461 h 368"
             style="
-              fill: none;
+              fill: #d8d8d8;
               stroke: #000000;
               stroke-width: 6;
               stroke-linecap: round;
@@ -272,7 +97,7 @@
           <path
             d="m 2809,2627 v -461 h -417 v 461 h 417"
             style="
-              fill: none;
+              fill: #d8d8d8;
               stroke: #000000;
               stroke-width: 6;
               stroke-linecap: round;
@@ -285,7 +110,7 @@
           <path
             d="m 2378,2627 v -461 h -181 v 461 h 181"
             style="
-              fill: none;
+              fill: #d8d8d8;
               stroke: #000000;
               stroke-width: 6;
               stroke-linecap: round;
@@ -298,7 +123,7 @@
           <path
             d="m 2192,2627 v -461 h -387 v 461 h 387"
             style="
-              fill: none;
+              fill: #d8d8d8;
               stroke: #000000;
               stroke-width: 6;
               stroke-linecap: round;
@@ -311,7 +136,7 @@
           <path
             d="m 1778,2627 v -461 h -775 v 461 h 775"
             style="
-              fill: none;
+              fill: #d8d8d8;
               stroke: #000000;
               stroke-width: 6;
               stroke-linecap: round;
@@ -324,7 +149,7 @@
           <path
             d="m 392,2166 v 257 h -25 v 204 H 747 V 2166 H 392"
             style="
-              fill: none;
+              fill: #d8d8d8;
               stroke: #000000;
               stroke-width: 6;
               stroke-linecap: round;
@@ -337,7 +162,7 @@
           <path
             d="m 3553,3115 v -217 h -136 v 217 h 136"
             style="
-              fill: none;
+              fill: #d8d8d8;
               stroke: #000000;
               stroke-width: 6;
               stroke-linecap: round;
@@ -350,7 +175,7 @@
           <path
             d="m 3403,3115 v -217 h -336 v 217 h 336"
             style="
-              fill: none;
+              fill: #d8d8d8;
               stroke: #000000;
               stroke-width: 6;
               stroke-linecap: round;
@@ -363,7 +188,7 @@
           <path
             d="m 3041,3115 h -124 v -105 h 7 v -112 h 111 v 112 h 7 v 105 h -1"
             style="
-              fill: none;
+              fill: #d8d8d8;
               stroke: #000000;
               stroke-width: 6;
               stroke-linecap: round;
@@ -376,7 +201,7 @@
           <path
             d="m 2892,3115 v -217 h -125 v 217 h 125"
             style="
-              fill: none;
+              fill: #d8d8d8;
               stroke: #000000;
               stroke-width: 6;
               stroke-linecap: round;
@@ -389,7 +214,7 @@
           <path
             d="m 2735,3115 v -217 h -106 v 217 h 106"
             style="
-              fill: none;
+              fill: #d8d8d8;
               stroke: #000000;
               stroke-width: 6;
               stroke-linecap: round;
@@ -402,7 +227,7 @@
           <path
             d="m 2623,3115 v -217 h -149 v 217 h 149"
             style="
-              fill: none;
+              fill: #d8d8d8;
               stroke: #000000;
               stroke-width: 6;
               stroke-linecap: round;
@@ -415,7 +240,7 @@
           <path
             d="m 2316,3115 v -217 h -124 v 217 h 124"
             style="
-              fill: none;
+              fill: #d8d8d8;
               stroke: #000000;
               stroke-width: 6;
               stroke-linecap: round;
@@ -428,7 +253,7 @@
           <path
             d="m 2160,3115 v -217 h -262 v 217 h 262"
             style="
-              fill: none;
+              fill: #d8d8d8;
               stroke: #000000;
               stroke-width: 6;
               stroke-linecap: round;
@@ -441,7 +266,7 @@
           <path
             d="m 1691,2960 v -75 h -267 v 75 h 267"
             style="
-              fill: none;
+              fill: #d8d8d8;
               stroke: #000000;
               stroke-width: 6;
               stroke-linecap: round;
@@ -454,7 +279,7 @@
           <path
             d="m 1398,2960 v -75 h -169 v 75 h 169"
             style="
-              fill: none;
+              fill: #d8d8d8;
               stroke: #000000;
               stroke-width: 6;
               stroke-linecap: round;
@@ -467,7 +292,7 @@
           <path
             d="m 1691,2986 v 518 h -462 v -518 h 462"
             style="
-              fill: none;
+              fill: #d8d8d8;
               stroke: #000000;
               stroke-width: 6;
               stroke-linecap: round;
@@ -480,7 +305,7 @@
           <path
             d="m 1691,3536 v 130 h -462 v -130 h 462"
             style="
-              fill: none;
+              fill: #d8d8d8;
               stroke: #000000;
               stroke-width: 6;
               stroke-linecap: round;
@@ -493,7 +318,7 @@
           <path
             d="m 1691,3673 v 211 h -462 v -211 h 462"
             style="
-              fill: none;
+              fill: #d8d8d8;
               stroke: #000000;
               stroke-width: 6;
               stroke-linecap: round;
@@ -506,7 +331,7 @@
           <path
             d="m 1691,3892 v 506 h -462 v -506 h 462"
             style="
-              fill: none;
+              fill: #d8d8d8;
               stroke: #000000;
               stroke-width: 6;
               stroke-linecap: round;
@@ -519,7 +344,7 @@
           <path
             d="m 1691,4416 v 530 h -462 v -530 h 462"
             style="
-              fill: none;
+              fill: #d8d8d8;
               stroke: #000000;
               stroke-width: 6;
               stroke-linecap: round;
@@ -532,7 +357,7 @@
           <path
             d="m 1691,4980 v 754 h -462 v -754 h 462"
             style="
-              fill: none;
+              fill: #d8d8d8;
               stroke: #000000;
               stroke-width: 6;
               stroke-linecap: round;
@@ -545,7 +370,7 @@
           <path
             d="m 1691,5749 v 298 h -462 v -298 h 462"
             style="
-              fill: none;
+              fill: #d8d8d8;
               stroke: #000000;
               stroke-width: 6;
               stroke-linecap: round;
@@ -558,7 +383,7 @@
           <path
             d="m 1710,6915 v -423 h -349 v 423 h 349"
             style="
-              fill: none;
+              fill: #d8d8d8;
               stroke: #000000;
               stroke-width: 6;
               stroke-linecap: round;
@@ -571,7 +396,7 @@
           <path
             d="m 1347,6915 v -423 h -343 v 423 h 343"
             style="
-              fill: none;
+              fill: #d8d8d8;
               stroke: #000000;
               stroke-width: 6;
               stroke-linecap: round;
@@ -584,7 +409,7 @@
           <path
             d="M 985,6915 V 6492 H 636 v 423 h 349"
             style="
-              fill: none;
+              fill: #d8d8d8;
               stroke: #000000;
               stroke-width: 6;
               stroke-linecap: round;
@@ -597,7 +422,7 @@
           <path
             d="m 1748,6915 v -591 h 1205 v 591 H 1748"
             style="
-              fill: none;
+              fill: #d8d8d8;
               stroke: #000000;
               stroke-width: 6;
               stroke-linecap: round;
@@ -610,7 +435,7 @@
           <path
             d="m 2992,6324 v 465 h 418 v -465 h -418"
             style="
-              fill: none;
+              fill: #d8d8d8;
               stroke: #000000;
               stroke-width: 6;
               stroke-linecap: round;
@@ -623,7 +448,7 @@
           <path
             d="m 3431,6324 v 465 h 180 v -465 h -180"
             style="
-              fill: none;
+              fill: #d8d8d8;
               stroke: #000000;
               stroke-width: 6;
               stroke-linecap: round;
@@ -636,7 +461,7 @@
           <path
             d="m 3629,6324 v 592 h 462 v -592 h -462"
             style="
-              fill: none;
+              fill: #d8d8d8;
               stroke: #000000;
               stroke-width: 6;
               stroke-linecap: round;
