@@ -18,7 +18,5 @@ import Main from "../components/Main.vue"
 main {
   display: flex;
   width: 100%;
-  flex-direction: column;
-  align-items: center;
 }
 </style>

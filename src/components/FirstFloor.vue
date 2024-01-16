@@ -250,7 +250,7 @@
             d="m 3546,2627 v -461 h -330 v 461 h 330"
             style="
               fill: none;
-              stroke: #000000;
+
               stroke-width: 6;
               stroke-linecap: round;
               stroke-linejoin: round;
@@ -263,7 +263,7 @@
             d="m 3546,2627 v -461 h -330 v 461 h 330"
             style="
               fill: none;
-              stroke: #000000;
+
               stroke-width: 6;
               stroke-linecap: round;
               stroke-linejoin: round;
@@ -276,7 +276,7 @@
             d="m 3210,2627 v -461 h -368 v 461 h 368"
             style="
               fill: none;
-              stroke: #000000;
+
               stroke-width: 6;
               stroke-linecap: round;
               stroke-linejoin: round;
@@ -289,7 +289,7 @@
             d="m 2809,2627 v -461 h -417 v 461 h 417"
             style="
               fill: none;
-              stroke: #000000;
+
               stroke-width: 6;
               stroke-linecap: round;
               stroke-linejoin: round;
@@ -302,7 +302,7 @@
             d="m 2378,2627 v -461 h -181 v 461 h 181"
             style="
               fill: none;
-              stroke: #000000;
+
               stroke-width: 6;
               stroke-linecap: round;
               stroke-linejoin: round;
@@ -315,7 +315,7 @@
             d="m 2192,2627 v -461 h -387 v 461 h 387"
             style="
               fill: none;
-              stroke: #000000;
+
               stroke-width: 6;
               stroke-linecap: round;
               stroke-linejoin: round;
@@ -328,7 +328,7 @@
             d="m 1778,2627 v -461 h -775 v 461 h 775"
             style="
               fill: none;
-              stroke: #000000;
+
               stroke-width: 6;
               stroke-linecap: round;
               stroke-linejoin: round;
@@ -341,7 +341,7 @@
             d="m 392,2166 v 257 h -25 v 204 H 747 V 2166 H 392"
             style="
               fill: none;
-              stroke: #000000;
+
               stroke-width: 6;
               stroke-linecap: round;
               stroke-linejoin: round;
@@ -354,7 +354,7 @@
             d="m 3553,3115 v -217 h -136 v 217 h 136"
             style="
               fill: none;
-              stroke: #000000;
+
               stroke-width: 6;
               stroke-linecap: round;
               stroke-linejoin: round;
@@ -367,7 +367,7 @@
             d="m 3403,3115 v -217 h -336 v 217 h 336"
             style="
               fill: none;
-              stroke: #000000;
+
               stroke-width: 6;
               stroke-linecap: round;
               stroke-linejoin: round;
@@ -380,7 +380,7 @@
             d="m 3041,3115 h -124 v -105 h 7 v -112 h 111 v 112 h 7 v 105 h -1"
             style="
               fill: none;
-              stroke: #000000;
+
               stroke-width: 6;
               stroke-linecap: round;
               stroke-linejoin: round;
@@ -393,7 +393,7 @@
             d="m 2892,3115 v -217 h -125 v 217 h 125"
             style="
               fill: none;
-              stroke: #000000;
+
               stroke-width: 6;
               stroke-linecap: round;
               stroke-linejoin: round;
@@ -406,7 +406,7 @@
             d="m 2735,3115 v -217 h -106 v 217 h 106"
             style="
               fill: none;
-              stroke: #000000;
+
               stroke-width: 6;
               stroke-linecap: round;
               stroke-linejoin: round;
@@ -419,7 +419,7 @@
             d="m 2623,3115 v -217 h -149 v 217 h 149"
             style="
               fill: none;
-              stroke: #000000;
+
               stroke-width: 6;
               stroke-linecap: round;
               stroke-linejoin: round;
@@ -432,7 +432,7 @@
             d="m 2316,3115 v -217 h -124 v 217 h 124"
             style="
               fill: none;
-              stroke: #000000;
+
               stroke-width: 6;
               stroke-linecap: round;
               stroke-linejoin: round;
@@ -445,7 +445,7 @@
             d="m 2160,3115 v -217 h -262 v 217 h 262"
             style="
               fill: none;
-              stroke: #000000;
+
               stroke-width: 6;
               stroke-linecap: round;
               stroke-linejoin: round;
@@ -458,7 +458,7 @@
             d="m 1691,2960 v -75 h -267 v 75 h 267"
             style="
               fill: none;
-              stroke: #000000;
+
               stroke-width: 6;
               stroke-linecap: round;
               stroke-linejoin: round;
@@ -471,7 +471,7 @@
             d="m 1398,2960 v -75 h -169 v 75 h 169"
             style="
               fill: none;
-              stroke: #000000;
+
               stroke-width: 6;
               stroke-linecap: round;
               stroke-linejoin: round;
@@ -484,7 +484,7 @@
             d="m 1691,2986 v 518 h -462 v -518 h 462"
             style="
               fill: none;
-              stroke: #000000;
+
               stroke-width: 6;
               stroke-linecap: round;
               stroke-linejoin: round;
@@ -497,7 +497,7 @@
             d="m 1691,3536 v 130 h -462 v -130 h 462"
             style="
               fill: none;
-              stroke: #000000;
+
               stroke-width: 6;
               stroke-linecap: round;
               stroke-linejoin: round;
@@ -510,7 +510,7 @@
             d="m 1691,3673 v 211 h -462 v -211 h 462"
             style="
               fill: none;
-              stroke: #000000;
+
               stroke-width: 6;
               stroke-linecap: round;
               stroke-linejoin: round;
@@ -523,7 +523,7 @@
             d="m 1691,3892 v 506 h -462 v -506 h 462"
             style="
               fill: none;
-              stroke: #000000;
+
               stroke-width: 6;
               stroke-linecap: round;
               stroke-linejoin: round;
@@ -536,7 +536,7 @@
             d="m 1691,4416 v 530 h -462 v -530 h 462"
             style="
               fill: none;
-              stroke: #000000;
+
               stroke-width: 6;
               stroke-linecap: round;
               stroke-linejoin: round;
@@ -549,7 +549,7 @@
             d="m 1691,4980 v 754 h -462 v -754 h 462"
             style="
               fill: none;
-              stroke: #000000;
+
               stroke-width: 6;
               stroke-linecap: round;
               stroke-linejoin: round;
@@ -562,7 +562,7 @@
             d="m 1691,5749 v 298 h -462 v -298 h 462"
             style="
               fill: none;
-              stroke: #000000;
+
               stroke-width: 6;
               stroke-linecap: round;
               stroke-linejoin: round;
@@ -575,7 +575,7 @@
             d="m 1710,6915 v -423 h -349 v 423 h 349"
             style="
               fill: none;
-              stroke: #000000;
+
               stroke-width: 6;
               stroke-linecap: round;
               stroke-linejoin: round;
@@ -588,7 +588,7 @@
             d="m 1347,6915 v -423 h -343 v 423 h 343"
             style="
               fill: none;
-              stroke: #000000;
+
               stroke-width: 6;
               stroke-linecap: round;
               stroke-linejoin: round;
@@ -601,7 +601,7 @@
             d="M 985,6915 V 6492 H 636 v 423 h 349"
             style="
               fill: none;
-              stroke: #000000;
+
               stroke-width: 6;
               stroke-linecap: round;
               stroke-linejoin: round;
@@ -614,7 +614,7 @@
             d="m 1748,6915 v -591 h 1205 v 591 H 1748"
             style="
               fill: none;
-              stroke: #000000;
+
               stroke-width: 6;
               stroke-linecap: round;
               stroke-linejoin: round;
@@ -627,7 +627,7 @@
             d="m 2992,6324 v 465 h 418 v -465 h -418"
             style="
               fill: none;
-              stroke: #000000;
+
               stroke-width: 6;
               stroke-linecap: round;
               stroke-linejoin: round;
@@ -640,7 +640,7 @@
             d="m 3431,6324 v 465 h 180 v -465 h -180"
             style="
               fill: none;
-              stroke: #000000;
+
               stroke-width: 6;
               stroke-linecap: round;
               stroke-linejoin: round;
@@ -653,7 +653,7 @@
             d="m 3629,6324 v 592 h 462 v -592 h -462"
             style="
               fill: none;
-              stroke: #000000;
+
               stroke-width: 6;
               stroke-linecap: round;
               stroke-linejoin: round;
